@@ -1,7 +1,7 @@
 {
   "name": "leajs-cache",
   "description": "handles caching of resources",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/lea-js/leajs-cache",
   "author": {
     "name": "Paul Pflugradt",
